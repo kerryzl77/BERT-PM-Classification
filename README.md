@@ -10,7 +10,7 @@ This repository contains the code accompanying our paper:
 
 ---
 
-![](figure/Confidence Interval.png)
+![Results](figure/Confidence_Interval.png)
 
 ## Overview
 
