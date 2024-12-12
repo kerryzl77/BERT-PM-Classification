@@ -1,7 +1,5 @@
 # BERT-PM-Classification
 
-# Calibrated-BERT-Fine-Tuning
-
 This repository contains the code accompanying our paper:
 
 **[Classification of Product Manager Types to Understand the Job Market]**
