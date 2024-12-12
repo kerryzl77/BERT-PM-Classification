@@ -20,8 +20,6 @@ In this study, we explored various textual feature engineering techniques for cl
 - **BERT Embeddings**: Contextualized embeddings generated from the pre-trained BERT model for a richer representation of textual data.
 - **Chain-of-Thought (CoT) Prompting**: Utilizing GPT-4 to generate intermediate reasoning steps for benchmarking and comparison.
 
-Our TF-IDF implementation extracts 768 features to match the dimensionality of BERT embeddings, enabling direct comparison across techniques.
-
 ### Repository Contents
 
 - **Extract Token.ipynb**: Jupyter notebook for data preprocessing, including downloading and tokenizing raw data.
