@@ -6,7 +6,7 @@ This repository contains the code accompanying our paper:
 
 *[Lena Corredor], [Saliia Asanova], [Zikai Liu]*
 
-[Paper Link](#)
+[Paper Link](#) [Presentation](figure/Poster Presentation (Corredor, Liu, Asanova).pdf)
 
 ---
 
