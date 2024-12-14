@@ -4,7 +4,8 @@ This repository contains the code accompanying our paper:
 
 **Classification of Product Manager Types to Understand the Job Market**
 
-[[Paper]](#)   [[Slides]](figure/Poster%20Presentation%20(Corredor,%20Liu,%20Asanova).pdf)
+[[Paper]](Classification%20of%20Product%20Manager%20Types%20to%20Understand%20the%20Job%20Market.pdf)
+ [[Slides]](figure/Poster%20Presentation%20(Corredor,%20Liu,%20Asanova).pdf)
 
 
 ---
